@@ -57,5 +57,5 @@ my-static-website/
 │   ├── styles.css        # Custom CSS styles
 │   └── server.js         # Node.js server for serving the app
 │
-└── README.md             # Project README file
+└── README.md            
 
